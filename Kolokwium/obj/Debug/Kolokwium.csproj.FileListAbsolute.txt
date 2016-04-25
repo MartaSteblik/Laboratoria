@@ -1,0 +1,3 @@
+c:\users\arnold\documents\visual studio 2015\Projects\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe.config
+G:\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe.config
+C:\Users\Samsung\Desktop\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe.config

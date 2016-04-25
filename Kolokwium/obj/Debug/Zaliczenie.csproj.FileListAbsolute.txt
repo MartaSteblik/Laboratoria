@@ -1,0 +1,6 @@
+C:\Users\Samsung\Desktop\Kolokwium\Kolokwium\obj\Debug\Zaliczenie.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\Kolokwium\Kolokwium\bin\Debug\Zaliczenie.exe.config
+C:\Users\Samsung\Desktop\Kolokwium\Kolokwium\bin\Debug\Zaliczenie.exe
+C:\Users\Samsung\Desktop\Kolokwium\Kolokwium\bin\Debug\Zaliczenie.pdb
+C:\Users\Samsung\Desktop\Kolokwium\Kolokwium\obj\Debug\Zaliczenie.exe
+C:\Users\Samsung\Desktop\Kolokwium\Kolokwium\obj\Debug\Zaliczenie.pdb
